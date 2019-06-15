@@ -4,3 +4,13 @@ Resultados census
 0.8216 - Naive Bayes - categóricos
 0.8214 - Naive Bayes - escalonamentos
 0.8216 - Naive Bayes - sem pré-processamento
+
+0.8351 - Arvore - categóricos + escalonamento
+0.8351 - Arvore - categóricos
+0.8351 - Arvore - escalonamentos
+0.8351 - Arvore - sem pré-processamento
+
+0.8528 - Arvore randomica - categóricos + escalonamento
+0.853 - Arvore randomica - categóricos
+0.8528 - Arvore randomica - escalonamentos
+0.853 - Arvore randomica - sem pré-processamento

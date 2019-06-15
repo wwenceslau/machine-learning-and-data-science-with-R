@@ -4,3 +4,11 @@ Resultados credit data
 0.916  - Navies Bayes - inconsistentes + faltantes + escalonamento
 0.916  - Navies Bayes - inconsistentes + faltantes
 0.914  - Navies Bayes - sem pré-processamento
+
+0.97  - Arvore - inconsistentes + faltantes + escalonamento
+0.97  - Arvore - inconsistentes + faltantes
+0.968  - Arvore - sem pré-processamento
+
+0.982  - Arvore randomica - inconsistentes + faltantes + escalonamento
+0.982  - Arvore randomica - inconsistentes + faltantes
+0.986  - Arvore randomica - faltantes
