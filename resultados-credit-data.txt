@@ -12,3 +12,7 @@ Resultados credit data
 0.982  - Arvore randomica - inconsistentes + faltantes + escalonamento
 0.982  - Arvore randomica - inconsistentes + faltantes
 0.986  - Arvore randomica - faltantes
+
+0.938  - CN2 - inconsistentes + faltantes + escalonamento
+0.938  - CN2 - inconsistentes + faltantes
+0.938  - CN2 - faltantes
