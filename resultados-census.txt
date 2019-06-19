@@ -1,5 +1,7 @@
 Resultados census
 ****************************
+75,11 - ZeroR (Base line classifier)
+
 0.8214 - Naive Bayes - categóricos + escalonamento
 0.8216 - Naive Bayes - categóricos
 0.8214 - Naive Bayes - escalonamentos
@@ -14,3 +16,8 @@ Resultados census
 0.853 - Arvore randomica - categóricos
 0.8528 - Arvore randomica - escalonamentos
 0.853 - Arvore randomica - sem pré-processamento
+
+ - CN2 - categóricos + escalonamento
+ - CN2 - categóricos
+ - CN2 - escalonamentos
+ - CN2 - sem pré-processamento

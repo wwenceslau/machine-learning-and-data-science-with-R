@@ -1,5 +1,6 @@
 Resultados credit data
 ************************************
+85,8 - ZeroR (Base line classifier)
 
 0.916  - Navies Bayes - inconsistentes + faltantes + escalonamento
 0.916  - Navies Bayes - inconsistentes + faltantes

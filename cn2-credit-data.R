@@ -11,6 +11,9 @@ divisao = sample.split(base$default, SplitRatio = 0.75)
 base_treinamento = subset(base, divisao == TRUE)
 base_teste = subset(base, divisao == FALSE)
 
+#ZeroR (Base line classifier)
+table(base_teste$default)
+
 #install.packages('RoughSets')
 library(RoughSets)
 dt_treinamento = SF.asDecisionTable(dataset = base_treinamento, decision.attr = 4)
