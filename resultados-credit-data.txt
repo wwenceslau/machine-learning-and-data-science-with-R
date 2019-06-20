@@ -17,3 +17,9 @@ Resultados credit data
 0.938  - CN2 - inconsistentes + faltantes + escalonamento
 0.938  - CN2 - inconsistentes + faltantes
 0.938  - CN2 - faltantes
+
+0.974  - Knn 5 - inconsistentes + faltantes + escalonamento
+0.834  - Knn 5 - inconsistentes + faltantes
+0.834  - Knn 5 - sem pré-processamento
+  
+  
