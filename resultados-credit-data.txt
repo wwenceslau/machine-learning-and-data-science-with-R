@@ -21,5 +21,15 @@ Resultados credit data
 0.974  - Knn 5 - inconsistentes + faltantes + escalonamento
 0.834  - Knn 5 - inconsistentes + faltantes
 0.834  - Knn 5 - sem pré-processamento
-  
-  
+
+0.9500  - Regressao Logistica - inconsistentes + faltantes + escalonamento
+0.9500  - Regressao Logistica - inconsistentes + faltantes
+0.9499  - Regressao Logistica - sem pré-processamento  
+
+0.988  - Svm kernel radial cost 5.0 - inconsistentes + faltantes + escalonamento
+0.988  - Svm kernel radial cost 5.0 - inconsistentes + faltantes
+erro   - Svm - sem pré-processamento  
+
+0.992  - Redes neurais artificiais - inconsistentes + faltantes + escalonamento
+0.994  - Redes neurais artificiais - inconsistentes + faltantes
+0.99   - Redes neurais artificiais - sem pré-processamento  

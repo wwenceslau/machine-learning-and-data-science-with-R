@@ -26,3 +26,20 @@ Resultados census
 0.7635 - Knn 5 - categóricos
 erro - Knn 5 - escalonamentos
 erro - Knn 5 - sem pré-processamento
+
+0.8373 - Regressao Logistica - categóricos + escalonamento
+0.8373 - Regressao Logistica - categóricos
+erro - Regressao Logistica - escalonamentos
+erro - Regressao Logistica - sem pré-processamento
+
+0.8424 - Svm Kernel radial cost 5.0 - categóricos + escalonamento
+0.8424 - Svm Kernel radial cost 5.0 - categóricos
+0. - Svm Kernel radial cost 5.0 - escalonamentos
+0. - Svm Kernel radial cost 5.0 - sem pré-processamento
+
+0.8212 - Redes neurais artificiais - categóricos + escalonamento
+0.8185 - Redes neurais artificiais - categóricos
+0.8168 - Redes neurais artificiais - escalonamentos
+0.8097 - Redes neurais artificiais - sem pré-processamento
+
+
